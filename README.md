@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 -->
 
 
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=tharuja&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Tharuja&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-*****
+***
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharuja)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharuja)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-
