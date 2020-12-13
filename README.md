@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### 🔧Technologies & Tools
-### Hi there 👋, I'm Tharuja
+### 🔧 Technologies & Tools
 
 
 <br/>
