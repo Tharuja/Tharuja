@@ -19,13 +19,17 @@ Here are some ideas to get you started:
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=tharuja&theme=react&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharuja&theme=blueberry  )](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tharuja&theme=cobalt" />
-***
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharuja&theme=blueberry  )](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharuja&theme=tokyonight" />
+***
+
+
 
 <br/>
