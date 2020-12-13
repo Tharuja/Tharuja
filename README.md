@@ -8,9 +8,6 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][Hackerrank]
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][Hackerrank]
-
 
 <!--
 tharuja/tharuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,9 +58,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Design-AdobePhotoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-GoogleColab-informational?style=flat&logo=Google&logoColor=white&color=2bbc8a)
 
-
-[linkedin] : https://www.linkedin.com/in/tharuja-sandeepanie-770033165/ 
-[Hackerrank] : https://www.hackerrank.com/sandz_96 
 
 [linkedin]: https://www.linkedin.com/in/tharuja-sandeepanie-770033165/ 
 [Hackerrank]: https://www.hackerrank.com/sandz_96
