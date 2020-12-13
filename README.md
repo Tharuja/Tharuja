@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/IDE-GoogleColab-informational?style=flat&logo=Google&logoColor=white&color=2bbc8a)
 
 
-[linkedin] : https://www.linkedin.com/in/tharuja-sandeepanie-770033165/
+[linkedin] : https://www.linkedin.com/in/tharuja-sandeepanie-770033165/ 
 [Hackerrank] : https://www.hackerrank.com/sandz_96 
