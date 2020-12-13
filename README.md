@@ -1,5 +1,22 @@
 ### Hi there 👋, I'm Tharuja
 
+## 🔗 Find me on 
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/tharuja-sandeepanie-770033165/]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][https://www.hackerrank.com/sandz_96]
+
+<!-- Actual text -->
+
+You can find me on, [![LinkedIn][3.2]][3] or on [![HackerRank][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg (twitter icon without padding)
+[2.2]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg(LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.hackerrank.com/sandz_96
+[2]: https://www.linkedin.com/in/tharuja-sandeepanie-770033165/
 
 
 <!--
