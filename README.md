@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Tharuja
 
-## 🔗 You can find me on 
+✔️ You can find me on 
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][Hackerrank]
