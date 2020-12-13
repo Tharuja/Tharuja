@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 [Hackerrank]: https://www.hackerrank.com/sandz_96
 
 <br />
- ### ✍️ Blog & Writing
+
+### ✍️ Blog & Writing
 
 You can find my articles on [Medium](https://medium.com/@kmtsandeepanie)
 
