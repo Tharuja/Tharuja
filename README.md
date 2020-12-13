@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharuja&theme=react" />
 
 <br/>
+## 🔧Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -40,4 +41,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ IDEA-informational?style=flat&logo=IntelliJ IDEA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ImageProcessing-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data Science-deep neural networks-informational?style=flat&logo=nuralNetworks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Adobe Photoshop-informational?style=flat&logo=Adobe Photoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Google Colab-informational?style=flat&logo=Google&logoColor=white&color=2bbc8a)
+
+
