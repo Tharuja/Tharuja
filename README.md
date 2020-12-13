@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharuja&theme=react" />
 
 <br/>
-## 🔧Technologies & Tools
+### 🔧Technologies & Tools
+<br/>
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
